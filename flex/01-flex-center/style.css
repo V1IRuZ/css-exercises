@@ -6,6 +6,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  /* or other option without flex */
   /* align-content: center; */
 }
 
